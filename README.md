@@ -1,8 +1,8 @@
 # Designing Perceptual Puzzles by Differentiating Probabilistic Programs
 
-This repository contains source code to accompany the SIGGRAPH paper _Designing
-Perceptual Puzzles by Differentiating Probabilistic Programs_ (Chandra, Li,
-Tenenbaum, and Ragan-Kelley 2022).
+This repository contains source code to accompany the SIGGRAPH paper [_Designing
+Perceptual Puzzles by Differentiating Probabilistic Programs_](https://arxiv.org/abs/2204.12301)
+(Chandra, Li, Tenenbaum, and Ragan-Kelley 2022).
 
 > We design new visual illusions by finding "adversarial examples" for
 > principled models of human perception — specifically, for probabilistic
